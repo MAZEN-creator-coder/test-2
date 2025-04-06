@@ -15,10 +15,14 @@ public class JavaApplication6 {
      */
     public static void main(String[] args) {
        System.out.println("Hello Ibrahim");
+<<<<<<< HEAD
        System.out.println(" hello amgad");
        System.out.println("mazen");
         System.out.println("mazen2");
        
+=======
+       System.out.println("Hello Mohamed");
+>>>>>>> my_name
     }
     
 }
