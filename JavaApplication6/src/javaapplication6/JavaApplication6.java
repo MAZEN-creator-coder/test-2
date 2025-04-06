@@ -17,6 +17,7 @@ public class JavaApplication6 {
        System.out.println("Hello Ibrahim");
        System.out.println(" hello amgad");
        System.out.println("mazen");
+       System.out.println("new branch amgad"); 
     }
     
 }
